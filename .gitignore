@@ -169,10 +169,16 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-<<<<<<< HEAD
-=======
 
 # Prototype video
 ESP32 Prototype/Hardware/
 ESP32 Prototype/Software/YOLOV8/
->>>>>>> e0d52fb (Prototype v2)
+
+.vscode/
+.history/
+.Pagtingin_V2-backups/
+.Pagtingin_V2.kicad_pcb/
+.Pagtingin_V2.kicad_prl/
+.Pagtingin_V2.kicad_pro/
+.Pagtingin_V2.kicad_sch/
+*~*.lck
