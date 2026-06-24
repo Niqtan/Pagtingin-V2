@@ -176,9 +176,9 @@ ESP32 Prototype/Software/YOLOV8/
 
 .vscode/
 .history/
-.Pagtingin_V2-backups/
-.Pagtingin_V2.kicad_pcb/
-.Pagtingin_V2.kicad_prl/
-.Pagtingin_V2.kicad_pro/
-.Pagtingin_V2.kicad_sch/
+./Pagtingin_V2-backups
+./Pagtingin_V2.kicad_pcb
+./Pagtingin_V2.kicad_prl
+./Pagtingin_V2.kicad_pro
+./Pagtingin_V2.kicad_sch
 *~*.lck
