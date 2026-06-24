@@ -181,4 +181,5 @@ ESP32 Prototype/Software/YOLOV8/
 ./Pagtingin_V2.kicad_prl
 ./Pagtingin_V2.kicad_pro
 ./Pagtingin_V2.kicad_sch
+./local_libs
 *~*.lck
