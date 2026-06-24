@@ -9,7 +9,7 @@ Hence, Pagtingin aims to aid this limitation and ensure a safe journey of naviga
 Pagtingin 2.0 uses a modular approach instead of a tightly coupled design, making the system easier to iterate on and refine over time. Some design changes and iterations also have been made.
 
 ## Zine
-[Click here for beautiful zine page](PAGTINGIN_2.0.pdf)
+![alt text](Screenshots/zine.png)
 
 ## Prototype Concept
 ![alt text](CAD/fully_assembled_prototype_concept.png)
@@ -72,15 +72,8 @@ In terms of 3D printing, it might be better to print this in resin since the gla
 
 ## BOM
 
-### Main Module
-[MainModule.csv](BOM.csv)
-
-### Sensor Module
-[SensorModule.csv](BOM3.csv)
-
-### Audio Module
-[AudioModule.csv](BOM2.csv)
-
+### BOM
+[Bill of Materials](BOM.csv)
 
 ## Firmware
 Still in progress. You may see previous prototypes in the folder for previous version's firmware. But for the firmware, I am planning to use the ESP-IDF in programming it. I chose the ESP-IDF because it allows full control over the ESP32-PICO-D4's peripherals and such. (also because I wanna challenge myself)
