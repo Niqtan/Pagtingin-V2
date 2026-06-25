@@ -515,3 +515,13 @@ HAD A FRIEND check it but fallout submissions are gonna be due TT.
 
 Yep! Exactly what the title of the journal is.
 ![alt text](Screenshots/magazine.png)
+
+# Entry 15 - 06-24-26 - Making the steps of my project + resubmitting
+
+Yeah so for this I recently had my project returned so now I'm going to comply with them.
+
+Also added some steps on how to replicate this project in the README!
+
+I also made this new zine!! :D
+
+![alt text](Screenshots/zine.png)
