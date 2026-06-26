@@ -58,11 +58,11 @@ Image 9. Glasses Frame Back View
 
 ### Temples
 
-![alt text](CAD/temple_rail_side.png)
-Image 10. Glasses Rail Side View
+![alt text](CAD/temple_back_view.png)
+Image 10. Glasses Temple Back View
 
-![alt text](CAD/temple_top_view.png)
-Image 11. Glasses Temple Top View
+![alt text](CAD/temple_rail_side.png)
+Image 11. Glasses Rail Side View
 
 ### Module Pod
 ![alt text](CAD/module_pod.png)
